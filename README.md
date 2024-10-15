@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://www.rofazayn.com/images/hero.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashjummani2&label=Profile%20views&color=0e75b6&style=flat" alt="jashjummani2" /> </p>
 
-- 🔭 I’m currently working on **Stock Price Prediction**
+🔭 I’m currently working on **Stock Price Prediction**
 
-- 🌱 I’m currently learning **PyTorch, LLMs, RAG,**
+🌱 I’m currently learning **PyTorch, LLMs, RAG,**
 
-- 💬 Ask me about **DL, ML, AI,**
+💬 Ask me about **DL, ML, AI,**
 
-- 📫 How to reach me **jummanijash.77@gmail.com**
+📫 How to reach me **jummanijash.77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q3vkqLiudm828XtUAzquQLgu6z_ToeDA/view?usp=sharing](https://drive.google.com/file/d/1Q3vkqLiudm828XtUAzquQLgu6z_ToeDA/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1Q3vkqLiudm828XtUAzquQLgu6z_ToeDA/view?usp=sharing](https://drive.google.com/file/d/1Q3vkqLiudm828XtUAzquQLgu6z_ToeDA/view?usp=sharing)
 
-- ⚡ Fun fact **Always ready to collaborate for a cup of coffee..**
+⚡ Fun fact **Always ready to collaborate for a cup of coffee..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
